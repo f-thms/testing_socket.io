@@ -9,13 +9,13 @@ These instructions will provide a copy of the project running on your local mach
 
 ### Prerequisites
 
-To develop this project I used some tools, I believe the essential ones are:
-[ ] VSCode
-[x] Express
-[x] TypeScript
-[x] Node
-[ ] Yarn
-[x] Socket.io
+To develop this project I used some tools, I believe the essential ones are marked:
+- [ ] VSCode
+- [x] Express
+- [x] TypeScript
+- [x] Node
+- [ ] Yarn
+- [x] Socket.io
 
 ### Installing
 
